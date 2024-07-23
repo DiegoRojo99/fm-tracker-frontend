@@ -21,7 +21,7 @@ function App() {
   }, [])
 
   return (
-    <Routes>
+    <Routes basename="/">
       <Route path="/" element={<Layout><Home /></Layout>} />
       <Route path="/map" element={<Layout><Map /></Layout>} />
       <Route path="/login" element={<Layout><LoginRegister /></Layout>} />
