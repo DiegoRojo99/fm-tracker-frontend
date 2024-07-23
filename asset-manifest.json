@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fm-hopper-frontend/static/css/main.9a3c9f8d.css",
+    "main.js": "/fm-hopper-frontend/static/js/main.c96736aa.js",
+    "static/media/Trophy.svg": "/fm-hopper-frontend/static/media/Trophy.15bdbaf87ac20956769d00df7233807e.svg",
+    "index.html": "/fm-hopper-frontend/index.html",
+    "static/media/Cross.svg": "/fm-hopper-frontend/static/media/Cross.516a6d870fd46b1a22c11525fe3f7405.svg",
+    "main.9a3c9f8d.css.map": "/fm-hopper-frontend/static/css/main.9a3c9f8d.css.map",
+    "main.c96736aa.js.map": "/fm-hopper-frontend/static/js/main.c96736aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a3c9f8d.css",
+    "static/js/main.c96736aa.js"
+  ]
+}
