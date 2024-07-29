@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://diegorojo99.github.io/fm-tracker-frontend",
+  "homepage": "https://fmtracker.site",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
